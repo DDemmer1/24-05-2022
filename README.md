@@ -15,7 +15,7 @@
 - Implementiert eine Methode mit der Signatur ```public static void print(HashMap<Integer, User> map, int startIndex)```
 - Die Methode soll ab dem angegebenen ```int startIndex``` über die ```HashMap<Integer, User>``` laufen und jeden ```User``` in der Konsole ausgeben
 die Methode soll rekursiv funktionieren und darf keine Schleife beinhalten
-- Tip: wandelt die Map vorher in ein Entry Set um
+- Tip: wandelt die Map vorher in eine andere Collection um und verlagert die Rekursion in eine andere Methode
 
 
 ### ℹ️ Resourcen:
