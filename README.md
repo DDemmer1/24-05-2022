@@ -22,7 +22,7 @@ die Methode soll rekursiv funktionieren und darf keine Schleife beinhalten
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Rekursion einfach erklärt](https://www.youtube.com/watch?v=weTpjhDnLnc)
-- 
+
 - [📃 Iteration und Rekursion - Java](https://java-tutorial.org/iteration_und_rekursion.html)
 
 - [🖊️ Stack Overflow - Are recursive methods always better than iterative methods in Java?](https://stackoverflow.com/questions/15346774/are-recursive-methods-always-better-than-iterative-methods-in-java)
