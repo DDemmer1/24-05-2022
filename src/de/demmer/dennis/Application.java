@@ -19,11 +19,7 @@ public class Application {
 		
 		UserUtil.print(map, 0);
 		
-		
-		
-
-		
-		
+	
 		
 		
 	}

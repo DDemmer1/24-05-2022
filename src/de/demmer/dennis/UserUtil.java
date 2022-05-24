@@ -15,12 +15,14 @@ public class UserUtil {
 		
 		// iterate over map with entry set
 //		for (Entry<Integer, User> e  :  mapSet ) {
-//			
 //			System.out.println(e.getKey() + " | " + e.getValue());	
 //		}
 		
+		//iteration with recursion
 		iterMap(mapList, startIndex);
 		
+		
+		//iteration with for loop and List
 //		for (int i = startIndex; i < mapList.size(); i++) {
 //			Entry<Integer, User> eintrag = mapList.get(i);
 //			System.out.println(eintrag.getKey() + " | " + eintrag.getValue());
