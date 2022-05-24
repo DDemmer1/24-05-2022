@@ -7,7 +7,7 @@
 
 1.
 - Erstellt eine Klasse ```User``` mit Getter/Setter/Konstruktor und ein paar Atributen (Name, Email ...)
-- Erzeugt in eurer ```main-methode``` eine ```HashMap<Integer, User>``` in der ihr ein paar ```User``` Objekte mit einer auf einen ```Integer``` mapped. Der ```Integer``` soll dabei eine User ID darstellen.
+- Erzeugt in eurer ```main-methode``` eine ```HashMap<Integer, User>``` in der ihr ein paar ```User``` Objekte auf einen ```Integer``` mapped. Der ```Integer``` soll dabei eine User ID darstellen.
 
 
 2.
